@@ -1,0 +1,173 @@
+﻿Nơi thực hiện,Vị trí quan trắc,Số lượng mẫu,Số lượng mẫu QC,Ngày,Ký hiệu
+TBNM15,Triều Lên,1,,4,HCM_NM_TBNM15_L
+TBNM5,Triều Lên,1,,4,HCM_NM_TBNM5_L
+Cầu Tân Thái,Triều Lên,1,,4,HCM_NM_CTT_L
+TBNM14,Triều Lên,1,,4,HCM_NM_TBNM14_L
+TBNM15,Triều Xuống,1,,4,HCM_NM_TBNM15_X
+TBNM5,Triều Xuống,1,,4,HCM_NM_TBNM5_X
+Cầu Tân Thái,Triều Xuống,1,1,4,HCM_NM_CTT_X
+TBNM14,Triều Xuống,1,,4,HCM_NM_TBNM14_X
+TBNM9,Triều Lên,1,1,4,HCM_NM_TBNM9_L
+TBNM11,Triều Lên,1,,4,HCM_NM_TBNM11_L
+TBNM1,Triều Lên,1,,4,HCM_NM_TBNM1_L
+Thầy Cai,Triều Lên,1,,4,HCM_NM_TCa_L
+TBNM9,Triều Xuống,1,,4,HCM_NM_TBNM9_X
+TBNM11,Triều Xuống,1,,4,HCM_NM_TBNM11_X
+TBNM1,Triều Xuống,1,,4,HCM_NM_TBNM1_X
+Thầy Cai,Triều Xuống,1,,4,HCM_NM_TCa_X
+Cầu Chữ Y,Triều Lên,1,,5,HCM_NM_CCY_L
+Chà Và,Triều Lên,1,,5,HCM_NM_CV_L
+Chánh Hưng,Triều Lên,1,,5,HCM_NM_CH_L
+Nhị Thiên Đường,Triều Lên,1,,5,HCM_NM_NTĐ_L
+Cầu Chữ Y,Triều Xuống,1,,5,HCM_NM_CCY_X
+Chà Và,Triều Xuống,1,,5,HCM_NM_CV_X
+Chánh Hưng,Triều Xuống,1,,5,HCM_NM_CH_X
+Nhị Thiên Đường,Triều Xuống,1,,5,HCM_NM_NTĐ_X
+Cầu Mống,Triều Lên,1,,5,HCM_NM_CMo_L
+Tân Thuận,Triều Lên,1,,5,HCM_NM_TThu_L
+Kênh Tẻ,Triều Lên,1,,5,HCM_NM_KT_L
+Cầu Mống,Triều Xuống,1,,5,HCM_NM_CMo_X
+Tân Thuận,Triều Xuống,1,,5,HCM_NM_TThu_X
+Kênh Tẻ,Triều Xuống,1,2,5,HCM_NM_KT_X
+Kênh N46,Triều Lên,1,,6,HCM_NM_N46_L
+Tân Phú Trung,Triều Lên,1,,6,HCM_NM_TPT_L
+TC18A,Triều Lên,1,,6,HCM_NM_TC18A_L
+An Hạ 1,Triều Lên,1,1,6,HCM_NM_AH1_L
+Kênh N46,Triều Xuống,1,,6,HCM_NM_N46_X
+Tân Phú Trung,Triều Xuống,1,1,6,HCM_NM_TPT_X
+TC18A,Triều Xuống,1,,6,HCM_NM_TC18A_X
+An Hạ 1,Triều Xuống,1,,6,HCM_NM_AH1_X
+Cầu Đường A,Triều Lên,1,,7,HCM_NM_CĐA_L
+Trung Tâm,Triều Lên,1,,7,HCM_NM_TrT_L
+Nước Lên,Triều Lên,1,,7,HCM_NM_NL_L
+Lương Bèo,Triều Lên,1,,7,HCM_NM_LB_L
+Cầu Đường A,Triều Xuống,1,,7,HCM_NM_CĐA_X
+Trung Tâm,Triều Xuống,1,,7,HCM_NM_TrT_X
+Nước Lên,Triều Xuống,1,,7,HCM_NM_NL_X
+Lương Bèo,Triều Xuống,1,,7,HCM_NM_LB_X
+Phú Định,Triều Lên,1,,8,HCM_NM_PĐ_L
+Phú Định,Triều Xuống,1,,8,HCM_NM_PĐ_X
+Hòa Bình,Triều Lên,1,1,8,HCM_NM_HB_L
+Ông Buông,Triều Lên,1,,8,HCM_NM_OB_L
+Rạch Ngựa,Triều Lên,1,,8,HCM_NM_RN_L
+Hòa Bình,Triều Xuống,1,,8,HCM_NM_HB_X
+Ông Buông,Triều Xuống,1,,8,HCM_NM_OB_X
+Rạch Ngựa,Triều Xuống,1,,8,HCM_NM_RN_X
+ĐPNM1,Triều Lên,1,1,11,HCM_NM_ĐPNM1_L
+ĐPNM4,Triều Lên,1,,11,HCM_NM_ĐPNM4_L
+ĐPNM5,Triều Lên,1,,11,HCM_NM_ĐPNM5_L
+ĐPNM8,Triều Lên,1,,11,HCM_NM_ĐPNM8_L
+ĐPNM1,Triều Xuống,1,,11,HCM_NM_ĐPNM1_X
+ĐPNM4,Triều Xuống,1,,11,HCM_NM_ĐPNM4_X
+ĐPNM5,Triều Xuống,1,,11,HCM_NM_ĐPNM5_X
+ĐPNM8,Triều Xuống,1,,11,HCM_NM_ĐPNM8_X
+Bà Lào,Triều Lên,1,1,11,HCM_NM_BLa_L
+Long Hậu Tân Kim,Triều Lên,1,,11,HCM_NM_LHTK_L
+Phú Xuân,Triều Lên,1,,11,HCM_NM_PX_L
+Hiệp Phước,Triều Lên,1,,11,HCM_NM_HPh_L
+Bà Lào,Triều Xuống,1,,11,HCM_NM_BLa_X
+Long Hậu Tân Kim,Triều Xuống,1,,11,HCM_NM_LHTK_X
+Phú Xuân,Triều Xuống,1,,11,HCM_NM_PX_X
+Hiệp Phước,Triều Xuống,1,,11,HCM_NM_HPh_X
+Cầu số 1,Triều Lên,1,,12,HCM_NM_CS1_L
+Lê Văn Sỹ,Triều Lên,1,,12,HCM_NM_LVS_L
+Hải Đức,Triều Lên,1,,12,HCM_NM_HĐ_L
+Điện Biên Phủ,Triều Lên,1,,12,HCM_NM_ĐBP_L
+Bùi Hữu Nghĩa,Triều Lên,1,,12,HCM_NM_BHN_L
+Cầu số 1,Triều Xuống,1,2,12,HCM_NM_CS1_X
+Lê Văn Sỹ,Triều Xuống,1,,12,HCM_NM_LVS_X
+Hải Đức,Triều Xuống,1,,12,HCM_NM_HĐ_X
+Điện Biên Phủ,Triều Xuống,1,,12,HCM_NM_ĐBP_X
+Bùi Hữu Nghĩa,Triều Xuống,1,,12,HCM_NM_BHN_X
+Cầu Đỏ,Triều Lên,1,,12,HCM_NM_CĐ_L
+Thị Nghè 2,Triều Lên,1,,12,HCM_NM_TN2_L
+Bùi Đình Túy,Triều Lên,1,,12,HCM_NM_BĐT_L
+Cầu Văn Thánh,Triều Lên,1,,12,HCM_NM_RVT_L
+Cầu Văn Thánh 2,Triều Lên,1,,12,HCM_NM_RVT2_L
+Cầu Đỏ,Triều Xuống,1,1,12,HCM_NM_CĐ_X
+Thị Nghè 2,Triều Xuống,1,,12,HCM_NM_TN2_X
+Bùi Đình Túy,Triều Xuống,1,,12,HCM_NM_BĐT_X
+Cầu Văn Thánh,Triều Xuống,1,,12,HCM_NM_RVT_X
+Cầu Văn Thánh 2,Triều Xuống,1,,12,HCM_NM_RVT2_X
+Cầu TL9,Triều Lên,1,,13,HCM_NM_CTL9_L
+Xuân Thới Sơn,Triều Lên,1,,13,HCM_NM_XTS_L
+Cầu Lớn,Triều Lên,1,,13,HCM_NM_CLo_L
+An Hạ,Triều Lên,1,,13,HCM_NM_AH_L
+Rau Răm,Triều Lên,1,,13,HCM_NM_RR_L
+Cầu TL9,Triều Xuống,1,,13,HCM_NM_CTL9_X
+Xuân Thới Sơn,Triều Xuống,1,,13,HCM_NM_XTS_X
+Cầu Lớn,Triều Xuống,1,,13,HCM_NM_CLo_X
+An Hạ,Triều Xuống,1,,13,HCM_NM_AH_X
+Rau Răm,Triều Xuống,1,1,13,HCM_NM_RR_X
+Cống Vàm Thuật,Triều Lên,1,1,14,HCM_NM_VT_L
+An Lộc,Triều Lên,1,,14,HCM_NM_AL_L
+Bến Cát,Triều Lên,1,,14,HCM_NM_BCa_L
+Trường Đai,Triều Lên,1,,14,HCM_NM_TĐ_L
+Cống Vàm Thuật,Triều Xuống,1,1,14,HCM_NM_VT_X
+An Lộc,Triều Xuống,1,,14,HCM_NM_AL_X
+Bến Cát,Triều Xuống,1,,14,HCM_NM_BCa_X
+Trường Đai,Triều Xuống,1,,14,HCM_NM_TĐ_X
+Chợ Cầu,Triều Lên,1,1,15,HCM_NM_CC_L
+Tham Lương,Triều Lên,1,,15,HCM_NM_TL_L
+Cầu Bưng,Triều Lên,1,,15,HCM_NM_CB_L
+CN1,Triều Lên,1,1,15,HCM_NM_CN1_L
+Chợ Cầu,Triều Xuống,1,,15,HCM_NM_CC_X
+Tham Lương,Triều Xuống,1,,15,HCM_NM_TL_X
+Cầu Bưng,Triều Xuống,1,,15,HCM_NM_CB_X
+CN1,Triều Xuống,1,,15,HCM_NM_CN1_X
+GCNM2,Triều Lên,1,,19,HCM_NM_GCNM2_L
+GCNM3,Triều Lên,1,,19,HCM_NM_GCNM3_L
+Cầu Bình Thuận,Triều Lên,1,,19,HCM_NM_BT2_L
+Nước Đen,Triều Lên,1,,19,HCM_NM_NĐ_L
+Cầu Sông Chùa,Triều Lên,1,,19,HCM_NM_CSC_L
+GCNM2,Triều Xuống,1,,19,HCM_NM_GCNM2_X
+GCNM3,Triều Xuống,1,,19,HCM_NM_GCNM3_X
+Cầu Bình Thuận,Triều Xuống,1,,19,HCM_NM_BT2_X
+Nước Đen,Triều Xuống,1,,19,HCM_NM_NĐ_X
+Cầu Sông Chùa,Triều Xuống,1,,19,HCM_NM_CSC_X
+Cầu Bà Tri,Triều Lên,1,,20,HCM_NM_CBT_L
+Tân Tạo,Triều Lên,1,,20,HCM_NM_TTa_L
+Kênh C,Triều Lên,1,,20,HCM_NM_KC_L
+Kênh C6,Triều Lên,1,,20,HCM_NM_KC6_L
+Kênh C8,Triều Lên,1,1,20,HCM_NM_KC8_L
+Cầu Bà Tri,Triều Xuống,1,,20,HCM_NM_CBT_X
+Tân Tạo,Triều Xuống,1,,20,HCM_NM_TTa_X
+Kênh C,Triều Xuống,1,,20,HCM_NM_KC_X
+Kênh C6,Triều Xuống,1,,20,HCM_NM_KC6_X
+Kênh C8,Triều Xuống,1,,20,HCM_NM_KC8_X
+Cầu Rạch Ngang,Triều Lên,1,,21,HCM_NM_CRN_L
+Xóm Củi,Triều Lên,1,,21,HCM_NM_XC_L
+Ông Lớn,Triều Lên,1,,21,HCM_NM_OL_L
+Cần Giuộc,Triều Lên,1,,21,HCM_NM_CG_L
+Cầu Rạch Ngang,Triều Xuống,1,1,21,HCM_NM_CRN_X
+Xóm Củi,Triều Xuống,1,,21,HCM_NM_XC_X
+Ông Lớn,Triều Xuống,1,,21,HCM_NM_OL_X
+Cần Giuộc,Triều Xuống,1,,21,HCM_NM_CG_X
+ĐPNM1,Triều Lên,1,,22,HCM_NM_ĐPNM1_2_L
+ĐPNM4,Triều Lên,1,,22,HCM_NM_ĐPNM4_2_L
+ĐPNM5,Triều Lên,1,,22,HCM_NM_ĐPNM5_2_L
+ĐPNM8,Triều Lên,1,,22,HCM_NM_ĐPNM8_2_L
+ĐPNM1,Triều Xuống,1,,22,HCM_NM_ĐPNM1_2_X
+ĐPNM4,Triều Xuống,1,,22,HCM_NM_ĐPNM4_2_X
+ĐPNM5,Triều Xuống,1,,22,HCM_NM_ĐPNM5_2_X
+ĐPNM8,Triều Xuống,1,,22,HCM_NM_ĐPNM8_2_X
+Cầu Gò Công,Triều Lên,1,,26,HCM_NM_CGC_L
+Cầu Gò Công,Triều Xuống,1,,26,HCM_NM_CGC_X
+Hồ Ngọc Lãm,Triều Lên,1,,27,HCM_NM_HNL_L
+Bình Ðiền,Triều Lên,1,,27,HCM_NM_BĐ_L
+Chợ Đệm,Triều Lên,1,,27,HCM_NM_CĐe_L
+Hồ Ngọc Lãm,Triều Xuống,1,,27,HCM_NM_HNL_X
+Bình Ðiền,Triều Xuống,1,,27,HCM_NM_BĐ_X
+Chợ Đệm,Triều Xuống,1,,27,HCM_NM_CĐe_X
+TBNM15,Triều Lên,1,,28,HCM_NM_TBNM15_2_L
+TBNM5,Triều Lên,1,,28,HCM_NM_TBNM5_2_L
+TBNM14,Triều Lên,1,,28,HCM_NM_TBNM14_2_L
+TBNM9,Triều Lên,1,1,28,HCM_NM_TBNM9_2_L
+TBNM11,Triều Lên,1,,28,HCM_NM_TBNM11_2_L
+TBNM1,Triều Lên,1,,28,HCM_NM_TBNM1_2_L
+TBNM15,Triều Xuống,1,1,28,HCM_NM_TBNM15_2_X
+TBNM5,Triều Xuống,1,,28,HCM_NM_TBNM5_2_X
+TBNM14,Triều Xuống,1,,28,HCM_NM_TBNM14_2_X
+TBNM9,Triều Xuống,1,,28,HCM_NM_TBNM9_2_X
+TBNM11,Triều Xuống,1,,28,HCM_NM_TBNM11_2_X
+TBNM1,Triều Xuống,1,,28,HCM_NM_TBNM1_2_X

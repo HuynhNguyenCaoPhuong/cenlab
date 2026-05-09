@@ -1,0 +1,29 @@
+﻿ts,day,noi_thuc_hien,vi_tri_qt,sample,sample_qc,status,note,key
+2026-05-01T22:48:44,25,Lòng Tàu 1,Triều Lên,1,,ok,,25|Lòng Tàu 1|Triều Lên|1|
+2026-05-01T22:48:51,25,Lòng Tàu,Triều Lên,1,,ok,,25|Lòng Tàu|Triều Lên|1|
+2026-05-01T22:48:57,25,Tam Thôn Hiệp,Triều Lên,1,,ok,,25|Tam Thôn Hiệp|Triều Lên|1|
+2026-05-01T22:49:03,25,Đồng Tranh 1,Triều Lên,1,,ok,,25|Đồng Tranh 1|Triều Lên|1|
+2026-05-01T22:49:09,25,Lòng Tàu 1,Triều Xuống,1,,ok,,25|Lòng Tàu 1|Triều Xuống|1|
+2026-05-01T22:49:14,25,Lòng Tàu,Triều Xuống,1,,ok,,25|Lòng Tàu|Triều Xuống|1|
+2026-05-01T22:49:21,25,Tam Thôn Hiệp,Triều Xuống,1,,ok,,25|Tam Thôn Hiệp|Triều Xuống|1|
+2026-05-01T22:49:28,25,Đồng Tranh 1,Triều Xuống,1,,ok,,25|Đồng Tranh 1|Triều Xuống|1|
+2026-05-01T22:49:34,25,Bình Lợi,Triều Lên,1,,ok,,25|Bình Lợi|Triều Lên|1|
+2026-05-01T22:49:40,25,Sài Gòn,Triều Lên,1,,ok,,25|Sài Gòn|Triều Lên|1|
+2026-05-01T22:49:46,25,Bình Lợi,Triều Xuống,1,,ok,,25|Bình Lợi|Triều Xuống|1|
+2026-05-01T22:49:52,25,Sài Gòn,Triều Xuống,1,1,ok,,25|Sài Gòn|Triều Xuống|1|1
+2026-05-01T22:50:01,26,Ngã Bảy,Triều Lên,1,,ok,,26|Ngã Bảy|Triều Lên|1|
+2026-05-01T22:50:08,26,Vàm Sát,Triều Lên,1,,ok,,26|Vàm Sát|Triều Lên|1|
+2026-05-01T22:50:21,26,Đồng Tranh,Triều Lên,1,,ok,,26|Đồng Tranh|Triều Lên|1|
+2026-05-01T22:50:27,26,Ngã Bảy,Triều Xuống,1,,ok,,26|Ngã Bảy|Triều Xuống|1|
+2026-05-01T22:50:34,26,Vàm Sát,Triều Xuống,1,,ok,,26|Vàm Sát|Triều Xuống|1|
+2026-05-01T22:50:40,26,Đồng Tranh,Triều Xuống,1,,ok,,26|Đồng Tranh|Triều Xuống|1|
+2026-05-01T22:50:46,26,Long Phước,Triều Lên,1,,ok,,26|Long Phước|Triều Lên|1|
+2026-05-01T22:50:52,26,Cát Lái,Triều Lên,1,,ok,,26|Cát Lái|Triều Lên|1|
+2026-05-01T22:50:58,26,Long Phước,Triều Xuống,1,,ok,,26|Long Phước|Triều Xuống|1|
+2026-05-01T22:51:05,26,Cát Lái,Triều Xuống,1,,ok,,26|Cát Lái|Triều Xuống|1|
+2026-05-01T22:51:14,27,Mũi Đèn Đỏ,Triều Lên,1,,ok,,27|Mũi Đèn Đỏ|Triều Lên|1|
+2026-05-01T22:51:20,27,Nhà Bè,Triều Lên,1,,ok,,27|Nhà Bè|Triều Lên|1|
+2026-05-01T22:51:26,27,Phú Mỹ,Triều Lên,1,,ok,,27|Phú Mỹ|Triều Lên|1|
+2026-05-01T22:51:40,27,Mũi Đèn Đỏ,Triều Xuống,1,,ok,,27|Mũi Đèn Đỏ|Triều Xuống|1|
+2026-05-01T22:51:46,27,Nhà Bè,Triều Xuống,1,,ok,,27|Nhà Bè|Triều Xuống|1|
+2026-05-01T22:51:52,27,Phú Mỹ,Triều Xuống,1,,ok,,27|Phú Mỹ|Triều Xuống|1|

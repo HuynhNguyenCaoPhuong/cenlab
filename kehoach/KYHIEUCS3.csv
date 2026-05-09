@@ -1,0 +1,29 @@
+﻿Nơi thực hiện,Vị trí quan trắc,Số lượng mẫu,Số lượng mẫu QC,Ngày,Ký hiệu
+Lòng Tàu 1,Triều Lên,1,,25,HCM_NM_LT1_L
+Lòng Tàu,Triều Lên,1,,25,HCM_NM_LT_L
+Tam Thôn Hiệp,Triều Lên,1,,25,HCM_NM_TTH_L
+Đồng Tranh 1,Triều Lên,1,,25,HCM_NM_ĐT1_L
+Lòng Tàu 1,Triều Xuống,1,,25,HCM_NM_LT1_X
+Lòng Tàu,Triều Xuống,1,,25,HCM_NM_LT_X
+Tam Thôn Hiệp,Triều Xuống,1,,25,HCM_NM_TTH_X
+Đồng Tranh 1,Triều Xuống,1,,25,HCM_NM_ĐT1_X
+Bình Lợi,Triều Lên,1,,25,HCM_NM_BL_L
+Sài Gòn,Triều Lên,1,,25,HCM_NM_SG_L
+Bình Lợi,Triều Xuống,1,,25,HCM_NM_BL_X
+Sài Gòn,Triều Xuống,1,1,25,HCM_NM_SG_X
+Ngã Bảy,Triều Lên,1,,26,HCM_NM_N7_L
+Vàm Sát,Triều Lên,1,,26,HCM_NM_VS_L
+Đồng Tranh,Triều Lên,1,,26,HCM_NM_ĐT_L
+Ngã Bảy,Triều Xuống,1,,26,HCM_NM_N7_X
+Vàm Sát,Triều Xuống,1,,26,HCM_NM_VS_X
+Đồng Tranh,Triều Xuống,1,,26,HCM_NM_ĐT_X
+Long Phước,Triều Lên,1,,26,HCM_NM_LP_L
+Cát Lái,Triều Lên,1,,26,HCM_NM_CL_L
+Long Phước,Triều Xuống,1,,26,HCM_NM_LP_X
+Cát Lái,Triều Xuống,1,,26,HCM_NM_CL_X
+Mũi Đèn Đỏ,Triều Lên,1,,27,HCM_NM_MĐĐ_L
+Nhà Bè,Triều Lên,1,,27,HCM_NM_NB_L
+Phú Mỹ,Triều Lên,1,,27,HCM_NM_PM_L
+Mũi Đèn Đỏ,Triều Xuống,1,,27,HCM_NM_MĐĐ_X
+Nhà Bè,Triều Xuống,1,,27,HCM_NM_NB_X
+Phú Mỹ,Triều Xuống,1,,27,HCM_NM_PM_X
