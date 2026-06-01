@@ -1,173 +1,119 @@
-﻿Nơi thực hiện,Vị trí quan trắc,Số lượng mẫu,Số lượng mẫu QC,Ngày
-TBNM15,Triều Lên,1,,4
-TBNM5,Triều Lên,1,,4
-Cầu Tân Thái,Triều Lên,1,,4
-TBNM14,Triều Lên,1,,4
-TBNM15,Triều Xuống,1,,4
-TBNM5,Triều Xuống,1,,4
-Cầu Tân Thái,Triều Xuống,1,1,4
-TBNM14,Triều Xuống,1,,4
-TBNM9,Triều Lên,1,1,4
-TBNM11,Triều Lên,1,,4
-TBNM1,Triều Lên,1,,4
-Thầy Cai,Triều Lên,1,,4
-TBNM9,Triều Xuống,1,,4
-TBNM11,Triều Xuống,1,,4
-TBNM1,Triều Xuống,1,,4
-Thầy Cai,Triều Xuống,1,,4
-Cầu Chữ Y,Triều Lên,1,,5
-Chà Và,Triều Lên,1,,5
-Chánh Hưng,Triều Lên,1,,5
-Nhị Thiên Đường,Triều Lên,1,,5
-Cầu Chữ Y,Triều Xuống,1,,5
-Chà Và,Triều Xuống,1,,5
-Chánh Hưng,Triều Xuống,1,,5
-Nhị Thiên Đường,Triều Xuống,1,,5
-Cầu Mống,Triều Lên,1,,5
-Tân Thuận,Triều Lên,1,,5
-Kênh Tẻ,Triều Lên,1,,5
-Cầu Mống,Triều Xuống,1,,5
-Tân Thuận,Triều Xuống,1,,5
-Kênh Tẻ,Triều Xuống,1,2,5
-Kênh N46,Triều Lên,1,,6
-Tân Phú Trung,Triều Lên,1,,6
-TC18A,Triều Lên,1,,6
-An Hạ 1,Triều Lên,1,1,6
-Kênh N46,Triều Xuống,1,,6
-Tân Phú Trung,Triều Xuống,1,1,6
-TC18A,Triều Xuống,1,,6
-An Hạ 1,Triều Xuống,1,,6
-Cầu Đường A,Triều Lên,1,,7
-Trung Tâm,Triều Lên,1,,7
-Nước Lên,Triều Lên,1,,7
-Lương Bèo,Triều Lên,1,,7
-Cầu Đường A,Triều Xuống,1,,7
-Trung Tâm,Triều Xuống,1,,7
-Nước Lên,Triều Xuống,1,,7
-Lương Bèo,Triều Xuống,1,,7
-Phú Định,Triều Lên,1,,8
-Phú Định,Triều Xuống,1,,8
-Hòa Bình,Triều Lên,1,1,8
-Ông Buông,Triều Lên,1,,8
-Rạch Ngựa,Triều Lên,1,,8
-Hòa Bình,Triều Xuống,1,,8
-Ông Buông,Triều Xuống,1,,8
-Rạch Ngựa,Triều Xuống,1,,8
-ĐPNM1,Triều Lên,1,1,11
-ĐPNM4,Triều Lên,1,,11
-ĐPNM5,Triều Lên,1,,11
-ĐPNM8,Triều Lên,1,,11
-ĐPNM1,Triều Xuống,1,,11
-ĐPNM4,Triều Xuống,1,,11
-ĐPNM5,Triều Xuống,1,,11
-ĐPNM8,Triều Xuống,1,,11
-Bà Lào,Triều Lên,1,1,11
-Long Hậu Tân Kim,Triều Lên,1,,11
-Phú Xuân,Triều Lên,1,,11
-Hiệp Phước,Triều Lên,1,,11
-Bà Lào,Triều Xuống,1,,11
-Long Hậu Tân Kim,Triều Xuống,1,,11
-Phú Xuân,Triều Xuống,1,,11
-Hiệp Phước,Triều Xuống,1,,11
-Cầu số 1,Triều Lên,1,,12
-Lê Văn Sỹ,Triều Lên,1,,12
-Hải Đức,Triều Lên,1,,12
-Điện Biên Phủ,Triều Lên,1,,12
-Bùi Hữu Nghĩa,Triều Lên,1,,12
-Cầu số 1,Triều Xuống,1,2,12
-Lê Văn Sỹ,Triều Xuống,1,,12
-Hải Đức,Triều Xuống,1,,12
-Điện Biên Phủ,Triều Xuống,1,,12
-Bùi Hữu Nghĩa,Triều Xuống,1,,12
-Cầu Đỏ,Triều Lên,1,,12
-Thị Nghè 2,Triều Lên,1,,12
-Bùi Đình Túy,Triều Lên,1,,12
-Cầu Văn Thánh,Triều Lên,1,,12
-Cầu Văn Thánh 2,Triều Lên,1,,12
-Cầu Đỏ,Triều Xuống,1,1,12
-Thị Nghè 2,Triều Xuống,1,,12
-Bùi Đình Túy,Triều Xuống,1,,12
-Cầu Văn Thánh,Triều Xuống,1,,12
-Cầu Văn Thánh 2,Triều Xuống,1,,12
-Cầu TL9,Triều Lên,1,,13
-Xuân Thới Sơn,Triều Lên,1,,13
-Cầu Lớn,Triều Lên,1,,13
-An Hạ,Triều Lên,1,,13
-Rau Răm,Triều Lên,1,,13
-Cầu TL9,Triều Xuống,1,,13
-Xuân Thới Sơn,Triều Xuống,1,,13
-Cầu Lớn,Triều Xuống,1,,13
-An Hạ,Triều Xuống,1,,13
-Rau Răm,Triều Xuống,1,1,13
-Cống Vàm Thuật,Triều Lên,1,1,14
-An Lộc,Triều Lên,1,,14
-Bến Cát,Triều Lên,1,,14
-Trường Đai,Triều Lên,1,,14
-Cống Vàm Thuật,Triều Xuống,1,1,14
-An Lộc,Triều Xuống,1,,14
-Bến Cát,Triều Xuống,1,,14
-Trường Đai,Triều Xuống,1,,14
-Chợ Cầu,Triều Lên,1,1,15
-Tham Lương,Triều Lên,1,,15
-Cầu Bưng,Triều Lên,1,,15
-CN1,Triều Lên,1,1,15
-Chợ Cầu,Triều Xuống,1,,15
-Tham Lương,Triều Xuống,1,,15
-Cầu Bưng,Triều Xuống,1,,15
-CN1,Triều Xuống,1,,15
-GCNM2,Triều Lên,1,,19
-GCNM3,Triều Lên,1,,19
-Cầu Bình Thuận,Triều Lên,1,,19
-Nước Đen,Triều Lên,1,,19
-Cầu Sông Chùa,Triều Lên,1,,19
-GCNM2,Triều Xuống,1,,19
-GCNM3,Triều Xuống,1,,19
-Cầu Bình Thuận,Triều Xuống,1,,19
-Nước Đen,Triều Xuống,1,,19
-Cầu Sông Chùa,Triều Xuống,1,,19
-Cầu Bà Tri,Triều Lên,1,,20
-Tân Tạo,Triều Lên,1,,20
-Kênh C,Triều Lên,1,,20
-Kênh C6,Triều Lên,1,,20
-Kênh C8,Triều Lên,1,1,20
-Cầu Bà Tri,Triều Xuống,1,,20
-Tân Tạo,Triều Xuống,1,,20
-Kênh C,Triều Xuống,1,,20
-Kênh C6,Triều Xuống,1,,20
-Kênh C8,Triều Xuống,1,,20
-Cầu Rạch Ngang,Triều Lên,1,,21
-Xóm Củi,Triều Lên,1,,21
-Ông Lớn,Triều Lên,1,,21
-Cần Giuộc,Triều Lên,1,,21
-Cầu Rạch Ngang,Triều Xuống,1,1,21
-Xóm Củi,Triều Xuống,1,,21
-Ông Lớn,Triều Xuống,1,,21
-Cần Giuộc,Triều Xuống,1,,21
-ĐPNM1,Triều Lên,1,,22
-ĐPNM4,Triều Lên,1,,22
-ĐPNM5,Triều Lên,1,,22
-ĐPNM8,Triều Lên,1,,22
-ĐPNM1,Triều Xuống,1,,22
-ĐPNM4,Triều Xuống,1,,22
-ĐPNM5,Triều Xuống,1,,22
-ĐPNM8,Triều Xuống,1,,22
-Cầu Gò Công,Triều Lên,1,,26
-Cầu Gò Công,Triều Xuống,1,,26
-Hồ Ngọc Lãm,Triều Lên,1,,27
-Bình Ðiền,Triều Lên,1,,27
-Chợ Đệm,Triều Lên,1,,27
-Hồ Ngọc Lãm,Triều Xuống,1,,27
-Bình Ðiền,Triều Xuống,1,,27
-Chợ Đệm,Triều Xuống,1,,27
-TBNM15,Triều Lên,1,,28
-TBNM5,Triều Lên,1,,28
-TBNM14,Triều Lên,1,,28
-TBNM9,Triều Lên,1,1,28
-TBNM11,Triều Lên,1,,28
-TBNM1,Triều Lên,1,,28
-TBNM15,Triều Xuống,1,1,28
-TBNM5,Triều Xuống,1,,28
-TBNM14,Triều Xuống,1,,28
-TBNM9,Triều Xuống,1,,28
-TBNM11,Triều Xuống,1,,28
-TBNM1,Triều Xuống,1,,28
+﻿Nơi thực hiện;Vị trí quan trắc;Số lượng mẫu;Số lượng mẫu QC lặp;Số lượng mẫu QC trắng;Số lượng mẫu QC;Ngày
+ĐPNM1 - HCM_NM_ĐPNM1 - 01;ĐPNM1 - 01;1;;;;11
+ĐPNM4 - HCM_NM_ĐPNM4 - 01;ĐPNM4 - 01;1;;;;11
+ĐPNM5 - HCM_NM_ĐPNM5 - 01;ĐPNM5 - 01;1;;;;11
+ĐPNM8 - HCM_NM_ĐPNM8 - 01;ĐPNM8 - 01;1;;;;11
+ĐPNM1 - HCM_NM_ĐPNM1 - 02;ĐPNM1 - 02;1;;;;11
+ĐPNM4 - HCM_NM_ĐPNM4 - 02;ĐPNM4 - 02;1;;;;11
+ĐPNM5 - HCM_NM_ĐPNM5 - 02;ĐPNM5 - 02;1;;;;11
+ĐPNM8 - HCM_NM_ĐPNM8 - 02;ĐPNM8 - 02;1;;;;11
+Bà Lào - HCM_NM_BLa - Triều Lên;Bà Lào - Triều Lên;1;1;;1;11
+Long Hậu Tân Kim - HCM_NM_LHTK - Triều Lên;Long Hậu Tân Kim - Triều Lên;1;;;;11
+Phú Xuân - HCM_NM_PX - Triều Lên;Phú Xuân - Triều Lên;1;;;;11
+Hiệp Phước - HCM_NM_HPh - Triều Lên;Hiệp Phước - Triều Lên;1;;;;11
+Bà Lào - HCM_NM_BLa - Triều Xuống;Bà Lào - Triều Xuống;1;;;;11
+Long Hậu Tân Kim - HCM_NM_LHTK - Triều Xuống;Long Hậu Tân Kim - Triều Xuống;1;;;;11
+Phú Xuân - HCM_NM_PX - Triều Xuống;Phú Xuân - Triều Xuống;1;;;;11
+Hiệp Phước - HCM_NM_HPh - Triều Xuống;Hiệp Phước - Triều Xuống;1;;;;11
+Cầu số 1 - HCM_NM_CS1 - Triều Lên;Cầu số 1 - Triều Lên;1;;;;12
+Lê Văn Sỹ - HCM_NM_LVS - Triều Lên;Lê Văn Sỹ - Triều Lên;1;;;;12
+Hải Đức - HCM_NM_HĐ - Triều Lên;Hải Đức - Triều Lên;1;;;;12
+Điện Biên Phủ - HCM_NM_ĐBP - Triều Lên;Điện Biên Phủ - Triều Lên;1;;;;12
+Bùi Hữu Nghĩa - HCM_NM_BHN - Triều Lên;Bùi Hữu Nghĩa - Triều Lên;1;;;;12
+Cầu số 1 - HCM_NM_CS1 - Triều Xuống;Cầu số 1 - Triều Xuống;1;1;1;3;12
+Lê Văn Sỹ - HCM_NM_LVS - Triều Xuống;Lê Văn Sỹ - Triều Xuống;1;;;;12
+Hải Đức - HCM_NM_HĐ - Triều Xuống;Hải Đức - Triều Xuống;1;;;;12
+Điện Biên Phủ - HCM_NM_ĐBP - Triều Xuống;Điện Biên Phủ - Triều Xuống;1;;;;12
+Bùi Hữu Nghĩa - HCM_NM_BHN - Triều Xuống;Bùi Hữu Nghĩa - Triều Xuống;1;;;;12
+Cầu Đỏ - HCM_NM_CĐ - Triều Lên;Cầu Đỏ - Triều Lên;1;;;;12
+Thị Nghè 2 - HCM_NM_TN2 - Triều Lên;Thị Nghè 2 - Triều Lên;1;;;;12
+Bùi Đình Túy - HCM_NM_BĐT - Triều Lên;Bùi Đình Túy - Triều Lên;1;;;;12
+Cầu Văn Thánh - HCM_NM_RVT - Triều Lên;Cầu Văn Thánh - Triều Lên;1;;;;12
+Cầu Văn Thánh 2 - HCM_NM_RVT2 - Triều Lên;Cầu Văn Thánh 2 - Triều Lên;1;;;;12
+Cầu Đỏ - HCM_NM_CĐ - Triều Xuống;Cầu Đỏ - Triều Xuống;1;1;;1;12
+Thị Nghè 2 - HCM_NM_TN2 - Triều Xuống;Thị Nghè 2 - Triều Xuống;1;;;;12
+Bùi Đình Túy - HCM_NM_BĐT - Triều Xuống;Bùi Đình Túy - Triều Xuống;1;;;;12
+Cầu Văn Thánh - HCM_NM_RVT - Triều Xuống;Cầu Văn Thánh - Triều Xuống;1;;;;12
+Cầu Văn Thánh 2 - HCM_NM_RVT2 - Triều Xuống;Cầu Văn Thánh 2 - Triều Xuống;1;;;;12
+Cầu TL9 - HCM_NM_CTL9 - Triều Lên;Cầu TL9 - Triều Lên;1;;;;13
+Xuân Thới Sơn - HCM_NM_XTS - Triều Lên;Xuân Thới Sơn - Triều Lên;1;;;;13
+Cầu Lớn - HCM_NM_CLo - Triều Lên;Cầu Lớn - Triều Lên;1;;;;13
+An Hạ - HCM_NM_AH - Triều Lên;An Hạ - Triều Lên;1;;;;13
+Rau Răm - HCM_NM_RR - Triều Lên;Rau Răm - Triều Lên;1;;;;13
+Cầu TL9 - HCM_NM_CTL9 - Triều Xuống;Cầu TL9 - Triều Xuống;1;;;;13
+Xuân Thới Sơn - HCM_NM_XTS - Triều Xuống;Xuân Thới Sơn - Triều Xuống;1;;;;13
+Cầu Lớn - HCM_NM_CLo - Triều Xuống;Cầu Lớn - Triều Xuống;1;;;;13
+An Hạ - HCM_NM_AH - Triều Xuống;An Hạ - Triều Xuống;1;;;;13
+Rau Răm - HCM_NM_RR - Triều Xuống;Rau Răm - Triều Xuống;1;1;;1;13
+Cống Vàm Thuật - HCM_NM_VT - Triều Lên;Cống Vàm Thuật - Triều Lên;1;;1;2;14
+An Lộc - HCM_NM_AL - Triều Lên;An Lộc - Triều Lên;1;;;;14
+Bến Cát - HCM_NM_BCa - Triều Lên;Bến Cát - Triều Lên;1;;;;14
+Trường Đai - HCM_NM_TĐ - Triều Lên;Trường Đai - Triều Lên;1;;;;14
+Cống Vàm Thuật - HCM_NM_VT - Triều Xuống;Cống Vàm Thuật - Triều Xuống;1;1;;1;14
+An Lộc - HCM_NM_AL - Triều Xuống;An Lộc - Triều Xuống;1;;;;14
+Bến Cát - HCM_NM_BCa - Triều Xuống;Bến Cát - Triều Xuống;1;;;;14
+Trường Đai - HCM_NM_TĐ - Triều Xuống;Trường Đai - Triều Xuống;1;;;;14
+Chợ Cầu - HCM_NM_CC - Triều Lên;Chợ Cầu - Triều Lên;1;;1;2;15
+Tham Lương - HCM_NM_TL - Triều Lên;Tham Lương - Triều Lên;1;;;;15
+Cầu Bưng - HCM_NM_CB - Triều Lên;Cầu Bưng - Triều Lên;1;;;;15
+CN1 - HCM_NM_CN1 - Triều Lên;CN1 - Triều Lên;1;1;;1;15
+Chợ Cầu - HCM_NM_CC - Triều Xuống;Chợ Cầu - Triều Xuống;1;;;;15
+Tham Lương - HCM_NM_TL - Triều Xuống;Tham Lương - Triều Xuống;1;;;;15
+Cầu Bưng - HCM_NM_CB - Triều Xuống;Cầu Bưng - Triều Xuống;1;;;;15
+CN1 - HCM_NM_CN1 - Triều Xuống;CN1 - Triều Xuống;1;;;;15
+GCNM2 - HCM_NM_GCNM2 - 01;GCNM2 - 01;1;;;;19
+GCNM3 - HCM_NM_GCNM3 - 01;GCNM3 - 01;1;;;;19
+Cầu Bình Thuận - HCM_NM_BT2 - Triều Lên;Cầu Bình Thuận - Triều Lên;1;;;;19
+Nước Đen - HCM_NM_NĐ - Triều Lên;Nước Đen - Triều Lên;1;;;;19
+Cầu Sông Chùa - HCM_NM_CSC - Triều Lên;Cầu Sông Chùa - Triều Lên;1;;;;19
+GCNM2 - HCM_NM_GCNM2 - 02;GCNM2 - 02;1;;;;19
+GCNM3 - HCM_NM_GCNM3 - 02;GCNM3 - 02;1;;;;19
+Cầu Bình Thuận - HCM_NM_BT2 - Triều Xuống;Cầu Bình Thuận - Triều Xuống;1;;;;19
+Nước Đen - HCM_NM_NĐ - Triều Xuống;Nước Đen - Triều Xuống;1;;;;19
+Cầu Sông Chùa - HCM_NM_CSC - Triều Xuống;Cầu Sông Chùa - Triều Xuống;1;;;;19
+Cầu Bà Tri - HCM_NM_CBT - Triều Lên;Cầu Bà Tri - Triều Lên;1;;;;20
+Tân Tạo - HCM_NM_TTa - Triều Lên;Tân Tạo - Triều Lên;1;;;;20
+Kênh C - HCM_NM_KC - Triều Lên;Kênh C - Triều Lên;1;;;;20
+Kênh C6 - HCM_NM_KC6 - Triều Lên;Kênh C6 - Triều Lên;1;;;;20
+Kênh C8 - HCM_NM_KC8 - Triều Lên;Kênh C8 - Triều Lên;1;1;;1;20
+Cầu Bà Tri - HCM_NM_CBT - Triều Xuống;Cầu Bà Tri - Triều Xuống;1;;;;20
+Tân Tạo - HCM_NM_TTa - Triều Xuống;Tân Tạo - Triều Xuống;1;;;;20
+Kênh C - HCM_NM_KC - Triều Xuống;Kênh C - Triều Xuống;1;;;;20
+Kênh C6 - HCM_NM_KC6 - Triều Xuống;Kênh C6 - Triều Xuống;1;;;;20
+Kênh C8 - HCM_NM_KC8 - Triều Xuống;Kênh C8 - Triều Xuống;1;;;;20
+Cầu Rạch Ngang - HCM_NM_CRN - Triều Lên;Cầu Rạch Ngang - Triều Lên;1;;;;21
+Xóm Củi - HCM_NM_XC - Triều Lên;Xóm Củi - Triều Lên;1;;;;21
+Ông Lớn - HCM_NM_OL - Triều Lên;Ông Lớn - Triều Lên;1;;;;21
+Cần Giuộc - HCM_NM_CG - Triều Lên;Cần Giuộc - Triều Lên;1;;;;21
+Cầu Rạch Ngang - HCM_NM_CRN - Triều Xuống;Cầu Rạch Ngang - Triều Xuống;1;;1;2;21
+Xóm Củi - HCM_NM_XC - Triều Xuống;Xóm Củi - Triều Xuống;1;;;;21
+Ông Lớn - HCM_NM_OL - Triều Xuống;Ông Lớn - Triều Xuống;1;;;;21
+Cần Giuộc - HCM_NM_CG - Triều Xuống;Cần Giuộc - Triều Xuống;1;;;;21
+ĐPNM1 - HCM_NM_ĐPNM1 - 01;ĐPNM1 - 01;1;;;;22
+ĐPNM4 - HCM_NM_ĐPNM4 - 01;ĐPNM4 - 01;1;;;;22
+ĐPNM5 - HCM_NM_ĐPNM5 - 01;ĐPNM5 - 01;1;;;;22
+ĐPNM8 - HCM_NM_ĐPNM8 - 01;ĐPNM8 - 01;1;;;;22
+ĐPNM1 - HCM_NM_ĐPNM1 - 02;ĐPNM1 - 02;1;;;;22
+ĐPNM4 - HCM_NM_ĐPNM4 - 02;ĐPNM4 - 02;1;;;;22
+ĐPNM5 - HCM_NM_ĐPNM5 - 02;ĐPNM5 - 02;1;;;;22
+ĐPNM8 - HCM_NM_ĐPNM8 - 02;ĐPNM8 - 02;1;;;;22
+Cầu Gò Công - HCM_NM_CGC - Triều Lên;Cầu Gò Công - Triều Lên;1;;;;26
+Cầu Gò Công - HCM_NM_CGC - Triều Xuống;Cầu Gò Công - Triều Xuống;1;;;;26
+Hồ Ngọc Lãm - HCM_NM_HNL - Triều Lên;Hồ Ngọc Lãm - Triều Lên;1;;;;27
+Bình Ðiền - HCM_NM_BĐ - Triều Lên;Bình Ðiền - Triều Lên;1;;;;27
+Chợ Đệm - HCM_NM_CĐe - Triều Lên;Chợ Đệm - Triều Lên;1;;;;27
+Hồ Ngọc Lãm - HCM_NM_HNL - Triều Xuống;Hồ Ngọc Lãm - Triều Xuống;1;;;;27
+Bình Ðiền - HCM_NM_BĐ - Triều Xuống;Bình Ðiền - Triều Xuống;1;;;;27
+Chợ Đệm - HCM_NM_CĐe - Triều Xuống;Chợ Đệm - Triều Xuống;1;;;;27
+TBNM15 - HCM_NM_TBNM15 - 01;TBNM15 - 01;1;;;;28
+TBNM5 - HCM_NM_TBNM5 - 01;TBNM5 - 01;1;;;;28
+TBNM14 - HCM_NM_TBNM14 - 01;TBNM14 - 01;1;;;;28
+TBNM9 - HCM_NM_TBNM9 - 01;TBNM9 - 01;1;;;;28
+TBNM11 - HCM_NM_TBNM11 - 01;TBNM11 - 01;1;;;;28
+TBNM1 - HCM_NM_TBNM1 - 01;TBNM1 - 01;1;;;;28
+TBNM15 - HCM_NM_TBNM15 - 02;TBNM15 - 02;1;;;;28
+TBNM5 - HCM_NM_TBNM5 - 02;TBNM5 - 02;1;;;;28
+TBNM14 - HCM_NM_TBNM14 - 02;TBNM14 - 02;1;;;;28
+TBNM9 - HCM_NM_TBNM9 - 02;TBNM9 - 02;1;;;;28
+TBNM11 - HCM_NM_TBNM11 - 02;TBNM11 - 02;1;;;;28
+TBNM1 - HCM_NM_TBNM1 - 02;TBNM1 - 02;1;;;;28

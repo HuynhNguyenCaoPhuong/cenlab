@@ -1,29 +1,31 @@
-﻿Nơi thực hiện,Vị trí quan trắc,Số lượng mẫu,Số lượng mẫu QC,Ngày,Ký hiệu
-Lòng Tàu 1,Triều Lên,1,,25,HCM_NM_LT1_L
-Lòng Tàu,Triều Lên,1,,25,HCM_NM_LT_L
-Tam Thôn Hiệp,Triều Lên,1,,25,HCM_NM_TTH_L
-Đồng Tranh 1,Triều Lên,1,,25,HCM_NM_ĐT1_L
-Lòng Tàu 1,Triều Xuống,1,,25,HCM_NM_LT1_X
-Lòng Tàu,Triều Xuống,1,,25,HCM_NM_LT_X
-Tam Thôn Hiệp,Triều Xuống,1,,25,HCM_NM_TTH_X
-Đồng Tranh 1,Triều Xuống,1,,25,HCM_NM_ĐT1_X
-Bình Lợi,Triều Lên,1,,25,HCM_NM_BL_L
-Sài Gòn,Triều Lên,1,,25,HCM_NM_SG_L
-Bình Lợi,Triều Xuống,1,,25,HCM_NM_BL_X
-Sài Gòn,Triều Xuống,1,1,25,HCM_NM_SG_X
-Ngã Bảy,Triều Lên,1,,26,HCM_NM_N7_L
-Vàm Sát,Triều Lên,1,,26,HCM_NM_VS_L
-Đồng Tranh,Triều Lên,1,,26,HCM_NM_ĐT_L
-Ngã Bảy,Triều Xuống,1,,26,HCM_NM_N7_X
-Vàm Sát,Triều Xuống,1,,26,HCM_NM_VS_X
-Đồng Tranh,Triều Xuống,1,,26,HCM_NM_ĐT_X
-Long Phước,Triều Lên,1,,26,HCM_NM_LP_L
-Cát Lái,Triều Lên,1,,26,HCM_NM_CL_L
-Long Phước,Triều Xuống,1,,26,HCM_NM_LP_X
-Cát Lái,Triều Xuống,1,,26,HCM_NM_CL_X
-Mũi Đèn Đỏ,Triều Lên,1,,27,HCM_NM_MĐĐ_L
-Nhà Bè,Triều Lên,1,,27,HCM_NM_NB_L
-Phú Mỹ,Triều Lên,1,,27,HCM_NM_PM_L
-Mũi Đèn Đỏ,Triều Xuống,1,,27,HCM_NM_MĐĐ_X
-Nhà Bè,Triều Xuống,1,,27,HCM_NM_NB_X
-Phú Mỹ,Triều Xuống,1,,27,HCM_NM_PM_X
+﻿Nơi thực hiện;Vị trí quan trắc;Số lượng mẫu;Số lượng mẫu QC;Ngày;Ký hiệu
+Lòng Tàu 1 - HCM_NM_LT1 - Triều Lên;Lòng Tàu 1 - Triều Lên;1;;25;HCM_NM_LT1.26.05.25.L
+Lòng Tàu - HCM_NM_LT - Triều Lên;Lòng Tàu - Triều Lên;1;;25;HCM_NM_LT.26.05.25.L
+Tam Thôn Hiệp - HCM_NM_TTH - Triều Lên;Tam Thôn Hiệp - Triều Lên;1;;25;HCM_NM_TTH.26.05.25.L
+Đồng Tranh 1 - HCM_NM_ĐT1 - Triều Lên;Đồng Tranh 1 - Triều Lên;1;;25;HCM_NM_ĐT1.26.05.25.L
+Lòng Tàu 1 - HCM_NM_LT1 - Triều Xuống;Lòng Tàu 1 - Triều Xuống;1;;25;HCM_NM_LT1.26.05.25.X
+Lòng Tàu - HCM_NM_LT - Triều Xuống;Lòng Tàu - Triều Xuống;1;;25;HCM_NM_LT.26.05.25.X
+Tam Thôn Hiệp - HCM_NM_TTH - Triều Xuống;Tam Thôn Hiệp - Triều Xuống;1;;25;HCM_NM_TTH.26.05.25.X
+Đồng Tranh 1 - HCM_NM_ĐT1 - Triều Xuống;Đồng Tranh 1 - Triều Xuống;1;;25;HCM_NM_ĐT1.26.05.25.X
+Bình Lợi - HCM_NM_BL - Triều Lên;Bình Lợi - Triều Lên;1;;25;HCM_NM_BL.26.05.25.L
+Sài Gòn - HCM_NM_SG - Triều Lên;Sài Gòn - Triều Lên;1;;25;HCM_NM_SG.26.05.25.L
+Bình Lợi - HCM_NM_BL - Triều Xuống;Bình Lợi - Triều Xuống;1;;25;HCM_NM_BL.26.05.25.X
+Sài Gòn - HCM_NM_SG - Triều Xuống;Sài Gòn - Triều Xuống;1;2;25;HCM_NM_SG.26.05.25.X
+Ngã Bảy - HCM_NM_N7 - Triều Lên;Ngã Bảy - Triều Lên;1;;26;HCM_NM_N7.26.05.26.L
+Vàm Sát - HCM_NM_VS - Triều Lên;Vàm Sát - Triều Lên;1;;26;HCM_NM_VS.26.05.26.L
+Đồng Tranh - HCM_NM_ĐT - Triều Lên;Đồng Tranh - Triều Lên;1;;26;HCM_NM_ĐT.26.05.26.L
+Ngã Bảy - HCM_NM_N7 - Triều Xuống;Ngã Bảy - Triều Xuống;1;;26;HCM_NM_N7.26.05.26.X
+Vàm Sát - HCM_NM_VS - Triều Xuống;Vàm Sát - Triều Xuống;1;;26;HCM_NM_VS.26.05.26.X
+Đồng Tranh - HCM_NM_ĐT - Triều Xuống;Đồng Tranh - Triều Xuống;1;;26;HCM_NM_ĐT.26.05.26.X
+Long Phước - HCM_NM_LP - Triều Lên;Long Phước - Triều Lên;1;;26;HCM_NM_LP.26.05.26.L
+Cát Lái - HCM_NM_CL - Triều Lên;Cát Lái - Triều Lên;1;;26;HCM_NM_CL.26.05.26.L
+Long Phước - HCM_NM_LP - Triều Xuống;Long Phước - Triều Xuống;1;;26;HCM_NM_LP.26.05.26.X
+Cát Lái - HCM_NM_CL - Triều Xuống;Cát Lái - Triều Xuống;1;;26;HCM_NM_CL.26.05.26.X
+Mũi Đèn Đỏ - HCM_NM_MĐĐ - Triều Lên;Mũi Đèn Đỏ - Triều Lên;1;;27;HCM_NM_MĐĐ.26.05.27.L
+Nhà Bè - HCM_NM_NB - Triều Lên;Nhà Bè - Triều Lên;1;;27;HCM_NM_NB.26.05.27.L
+Phú Mỹ - HCM_NM_PM - Triều Lên;Phú Mỹ - Triều Lên;1;;27;HCM_NM_PM.26.05.27.L
+Mũi Đèn Đỏ - HCM_NM_MĐĐ - Triều Xuống;Mũi Đèn Đỏ - Triều Xuống;1;;27;HCM_NM_MĐĐ.26.05.27.X
+Nhà Bè - HCM_NM_NB - Triều Xuống;Nhà Bè - Triều Xuống;1;;27;HCM_NM_NB.26.05.27.X
+Phú Mỹ - HCM_NM_PM - Triều Xuống;Phú Mỹ - Triều Xuống;1;;27;HCM_NM_PM.26.05.27.X
+Sài Gòn - HCM_NM_SG - Triều Xuống;Sài Gòn - Triều Xuống (QC - Mẫu lặp);1;;25;HCM_NM_SG.26.05.25.X.05
+Sài Gòn - HCM_NM_SG - Triều Xuống;Sài Gòn - Triều Xuống (QC - Mẫu trắng);1;;25;HCM_NM_SG.26.05.25.X.08

@@ -1,85 +1,31 @@
 ﻿key,Ngày,idx,Nơi thực hiện,Vị trí quan trắc,Ký hiệu,ts
-kehoach|0,25,0,Lòng Tàu 1,Triều Lên,HCM_NM_LT1_L,2026-05-02T16:52:42
-kehoach|0,25,0,Lòng Tàu 1,Triều Lên,HCM_NM_LT1_L,2026-05-02T16:52:51
-kehoach|0,25,0,Lòng Tàu 1,Triều Lên,HCM_NM_LT1_L,2026-05-02T16:53:00
-kehoach|1,25,1,Lòng Tàu,Triều Lên,HCM_NM_LT_L,2026-05-02T16:53:09
-kehoach|1,25,1,Lòng Tàu,Triều Lên,HCM_NM_LT_L,2026-05-02T16:53:18
-kehoach|1,25,1,Lòng Tàu,Triều Lên,HCM_NM_LT_L,2026-05-02T16:53:27
-kehoach|2,25,2,Tam Thôn Hiệp,Triều Lên,HCM_NM_TTH_L,2026-05-02T16:53:35
-kehoach|2,25,2,Tam Thôn Hiệp,Triều Lên,HCM_NM_TTH_L,2026-05-02T16:53:44
-kehoach|2,25,2,Tam Thôn Hiệp,Triều Lên,HCM_NM_TTH_L,2026-05-02T16:53:53
-kehoach|3,25,3,Đồng Tranh 1,Triều Lên,HCM_NM_ĐT1_L,2026-05-02T16:54:02
-kehoach|3,25,3,Đồng Tranh 1,Triều Lên,HCM_NM_ĐT1_L,2026-05-02T16:54:11
-kehoach|3,25,3,Đồng Tranh 1,Triều Lên,HCM_NM_ĐT1_L,2026-05-02T16:54:20
-kehoach|4,25,4,Lòng Tàu 1,Triều Xuống,HCM_NM_LT1_X,2026-05-02T16:54:28
-kehoach|4,25,4,Lòng Tàu 1,Triều Xuống,HCM_NM_LT1_X,2026-05-02T16:54:37
-kehoach|4,25,4,Lòng Tàu 1,Triều Xuống,HCM_NM_LT1_X,2026-05-02T16:54:46
-kehoach|5,25,5,Lòng Tàu,Triều Xuống,HCM_NM_LT_X,2026-05-02T16:54:55
-kehoach|5,25,5,Lòng Tàu,Triều Xuống,HCM_NM_LT_X,2026-05-02T16:55:04
-kehoach|5,25,5,Lòng Tàu,Triều Xuống,HCM_NM_LT_X,2026-05-02T16:55:13
-kehoach|6,25,6,Tam Thôn Hiệp,Triều Xuống,HCM_NM_TTH_X,2026-05-02T16:55:22
-kehoach|6,25,6,Tam Thôn Hiệp,Triều Xuống,HCM_NM_TTH_X,2026-05-02T16:55:31
-kehoach|6,25,6,Tam Thôn Hiệp,Triều Xuống,HCM_NM_TTH_X,2026-05-02T16:55:40
-kehoach|7,25,7,Đồng Tranh 1,Triều Xuống,HCM_NM_ĐT1_X,2026-05-02T16:55:48
-kehoach|7,25,7,Đồng Tranh 1,Triều Xuống,HCM_NM_ĐT1_X,2026-05-02T16:55:57
-kehoach|7,25,7,Đồng Tranh 1,Triều Xuống,HCM_NM_ĐT1_X,2026-05-02T16:56:06
-kehoach|8,25,8,Bình Lợi,Triều Lên,HCM_NM_BL_L,2026-05-02T16:56:16
-kehoach|8,25,8,Bình Lợi,Triều Lên,HCM_NM_BL_L,2026-05-02T16:56:25
-kehoach|8,25,8,Bình Lợi,Triều Lên,HCM_NM_BL_L,2026-05-02T16:56:34
-kehoach|9,25,9,Sài Gòn,Triều Lên,HCM_NM_SG_L,2026-05-02T16:56:43
-kehoach|9,25,9,Sài Gòn,Triều Lên,HCM_NM_SG_L,2026-05-02T16:56:52
-kehoach|9,25,9,Sài Gòn,Triều Lên,HCM_NM_SG_L,2026-05-02T16:57:01
-kehoach|10,25,10,Bình Lợi,Triều Xuống,HCM_NM_BL_X,2026-05-02T16:57:10
-kehoach|10,25,10,Bình Lợi,Triều Xuống,HCM_NM_BL_X,2026-05-02T16:57:18
-kehoach|10,25,10,Bình Lợi,Triều Xuống,HCM_NM_BL_X,2026-05-02T16:57:27
-kehoach|11,25,11,Sài Gòn,Triều Xuống,HCM_NM_SG_X,2026-05-02T16:57:36
-kehoach|11,25,11,Sài Gòn,Triều Xuống,HCM_NM_SG_X,2026-05-02T16:57:45
-kehoach|11,25,11,Sài Gòn,Triều Xuống,HCM_NM_SG_X,2026-05-02T16:57:54
-kehoach|12,26,12,Ngã Bảy,Triều Lên,HCM_NM_N7_L,2026-05-02T16:58:06
-kehoach|12,26,12,Ngã Bảy,Triều Lên,HCM_NM_N7_L,2026-05-02T16:58:15
-kehoach|12,26,12,Ngã Bảy,Triều Lên,HCM_NM_N7_L,2026-05-02T16:58:24
-kehoach|13,26,13,Vàm Sát,Triều Lên,HCM_NM_VS_L,2026-05-02T16:58:33
-kehoach|13,26,13,Vàm Sát,Triều Lên,HCM_NM_VS_L,2026-05-02T16:58:42
-kehoach|13,26,13,Vàm Sát,Triều Lên,HCM_NM_VS_L,2026-05-02T16:58:51
-kehoach|14,26,14,Đồng Tranh,Triều Lên,HCM_NM_ĐT_L,2026-05-02T16:58:59
-kehoach|14,26,14,Đồng Tranh,Triều Lên,HCM_NM_ĐT_L,2026-05-02T16:59:08
-kehoach|14,26,14,Đồng Tranh,Triều Lên,HCM_NM_ĐT_L,2026-05-02T16:59:18
-kehoach|15,26,15,Ngã Bảy,Triều Xuống,HCM_NM_N7_X,2026-05-02T16:59:27
-kehoach|15,26,15,Ngã Bảy,Triều Xuống,HCM_NM_N7_X,2026-05-02T16:59:36
-kehoach|15,26,15,Ngã Bảy,Triều Xuống,HCM_NM_N7_X,2026-05-02T16:59:45
-kehoach|16,26,16,Vàm Sát,Triều Xuống,HCM_NM_VS_X,2026-05-02T16:59:53
-kehoach|16,26,16,Vàm Sát,Triều Xuống,HCM_NM_VS_X,2026-05-02T17:00:02
-kehoach|16,26,16,Vàm Sát,Triều Xuống,HCM_NM_VS_X,2026-05-02T17:00:12
-kehoach|17,26,17,Đồng Tranh,Triều Xuống,HCM_NM_ĐT_X,2026-05-02T17:00:21
-kehoach|17,26,17,Đồng Tranh,Triều Xuống,HCM_NM_ĐT_X,2026-05-02T17:00:29
-kehoach|17,26,17,Đồng Tranh,Triều Xuống,HCM_NM_ĐT_X,2026-05-02T17:00:38
-kehoach|18,26,18,Long Phước,Triều Lên,HCM_NM_LP_L,2026-05-02T17:00:47
-kehoach|18,26,18,Long Phước,Triều Lên,HCM_NM_LP_L,2026-05-02T17:00:56
-kehoach|18,26,18,Long Phước,Triều Lên,HCM_NM_LP_L,2026-05-02T17:01:05
-kehoach|19,26,19,Cát Lái,Triều Lên,HCM_NM_CL_L,2026-05-02T17:01:14
-kehoach|19,26,19,Cát Lái,Triều Lên,HCM_NM_CL_L,2026-05-02T17:01:23
-kehoach|19,26,19,Cát Lái,Triều Lên,HCM_NM_CL_L,2026-05-02T17:01:33
-kehoach|20,26,20,Long Phước,Triều Xuống,HCM_NM_LP_X,2026-05-02T17:01:42
-kehoach|20,26,20,Long Phước,Triều Xuống,HCM_NM_LP_X,2026-05-02T17:01:51
-kehoach|20,26,20,Long Phước,Triều Xuống,HCM_NM_LP_X,2026-05-02T17:02:00
-kehoach|21,26,21,Cát Lái,Triều Xuống,HCM_NM_CL_X,2026-05-02T17:02:09
-kehoach|21,26,21,Cát Lái,Triều Xuống,HCM_NM_CL_X,2026-05-02T17:02:18
-kehoach|21,26,21,Cát Lái,Triều Xuống,HCM_NM_CL_X,2026-05-02T17:02:27
-kehoach|22,27,22,Mũi Đèn Đỏ,Triều Lên,HCM_NM_MĐĐ_L,2026-05-02T17:02:39
-kehoach|22,27,22,Mũi Đèn Đỏ,Triều Lên,HCM_NM_MĐĐ_L,2026-05-02T17:02:51
-kehoach|22,27,22,Mũi Đèn Đỏ,Triều Lên,HCM_NM_MĐĐ_L,2026-05-02T17:02:59
-kehoach|23,27,23,Nhà Bè,Triều Lên,HCM_NM_NB_L,2026-05-02T17:03:08
-kehoach|23,27,23,Nhà Bè,Triều Lên,HCM_NM_NB_L,2026-05-02T17:03:17
-kehoach|23,27,23,Nhà Bè,Triều Lên,HCM_NM_NB_L,2026-05-02T17:03:26
-kehoach|24,27,24,Phú Mỹ,Triều Lên,HCM_NM_PM_L,2026-05-02T17:03:35
-kehoach|24,27,24,Phú Mỹ,Triều Lên,HCM_NM_PM_L,2026-05-02T17:03:44
-kehoach|24,27,24,Phú Mỹ,Triều Lên,HCM_NM_PM_L,2026-05-02T17:03:52
-kehoach|25,27,25,Mũi Đèn Đỏ,Triều Xuống,HCM_NM_MĐĐ_X,2026-05-02T17:04:01
-kehoach|25,27,25,Mũi Đèn Đỏ,Triều Xuống,HCM_NM_MĐĐ_X,2026-05-02T17:04:10
-kehoach|25,27,25,Mũi Đèn Đỏ,Triều Xuống,HCM_NM_MĐĐ_X,2026-05-02T17:04:19
-kehoach|26,27,26,Nhà Bè,Triều Xuống,HCM_NM_NB_X,2026-05-02T17:04:28
-kehoach|26,27,26,Nhà Bè,Triều Xuống,HCM_NM_NB_X,2026-05-02T17:04:37
-kehoach|26,27,26,Nhà Bè,Triều Xuống,HCM_NM_NB_X,2026-05-02T17:04:46
-kehoach|27,27,27,Phú Mỹ,Triều Xuống,HCM_NM_PM_X,2026-05-02T17:04:55
-kehoach|27,27,27,Phú Mỹ,Triều Xuống,HCM_NM_PM_X,2026-05-02T17:05:04
-kehoach|27,27,27,Phú Mỹ,Triều Xuống,HCM_NM_PM_X,2026-05-02T17:05:14
+kehoach|0,25,0,Lòng Tàu 1 - HCM_NM_LT1 - Triều Lên,Lòng Tàu 1 - Triều Lên,HCM_NM_LT1.26.05.25.L,2026-05-14T10:29:05
+kehoach|1,25,1,Lòng Tàu - HCM_NM_LT - Triều Lên,Lòng Tàu - Triều Lên,HCM_NM_LT.26.05.25.L,2026-05-14T10:29:18
+kehoach|2,25,2,Tam Thôn Hiệp - HCM_NM_TTH - Triều Lên,Tam Thôn Hiệp - Triều Lên,HCM_NM_TTH.26.05.25.L,2026-05-14T10:29:31
+kehoach|3,25,3,Đồng Tranh 1 - HCM_NM_ĐT1 - Triều Lên,Đồng Tranh 1 - Triều Lên,HCM_NM_ĐT1.26.05.25.L,2026-05-14T10:29:44
+kehoach|4,25,4,Lòng Tàu 1 - HCM_NM_LT1 - Triều Xuống,Lòng Tàu 1 - Triều Xuống,HCM_NM_LT1.26.05.25.X,2026-05-14T10:29:56
+kehoach|5,25,5,Lòng Tàu - HCM_NM_LT - Triều Xuống,Lòng Tàu - Triều Xuống,HCM_NM_LT.26.05.25.X,2026-05-14T10:30:09
+kehoach|6,25,6,Tam Thôn Hiệp - HCM_NM_TTH - Triều Xuống,Tam Thôn Hiệp - Triều Xuống,HCM_NM_TTH.26.05.25.X,2026-05-14T10:30:22
+kehoach|7,25,7,Đồng Tranh 1 - HCM_NM_ĐT1 - Triều Xuống,Đồng Tranh 1 - Triều Xuống,HCM_NM_ĐT1.26.05.25.X,2026-05-14T10:30:34
+kehoach|8,25,8,Bình Lợi - HCM_NM_BL - Triều Lên,Bình Lợi - Triều Lên,HCM_NM_BL.26.05.25.L,2026-05-14T10:30:47
+kehoach|9,25,9,Sài Gòn - HCM_NM_SG - Triều Lên,Sài Gòn - Triều Lên,HCM_NM_SG.26.05.25.L,2026-05-14T10:31:00
+kehoach|10,25,10,Bình Lợi - HCM_NM_BL - Triều Xuống,Bình Lợi - Triều Xuống,HCM_NM_BL.26.05.25.X,2026-05-14T10:31:12
+kehoach|11,25,11,Sài Gòn - HCM_NM_SG - Triều Xuống,Sài Gòn - Triều Xuống,HCM_NM_SG.26.05.25.X,2026-05-14T10:31:25
+kehoach|28,25,28,Sài Gòn - HCM_NM_SG - Triều Xuống,Sài Gòn - Triều Xuống (QC - Mẫu lặp),HCM_NM_SG.26.05.25.X.05,2026-05-14T10:31:38
+kehoach|29,25,29,Sài Gòn - HCM_NM_SG - Triều Xuống,Sài Gòn - Triều Xuống (QC - Mẫu trắng),HCM_NM_SG.26.05.25.X.08,2026-05-14T10:31:50
+kehoach|12,26,12,Ngã Bảy - HCM_NM_N7 - Triều Lên,Ngã Bảy - Triều Lên,HCM_NM_N7.26.05.26.L,2026-05-14T10:32:05
+kehoach|13,26,13,Vàm Sát - HCM_NM_VS - Triều Lên,Vàm Sát - Triều Lên,HCM_NM_VS.26.05.26.L,2026-05-14T10:32:18
+kehoach|14,26,14,Đồng Tranh - HCM_NM_ĐT - Triều Lên,Đồng Tranh - Triều Lên,HCM_NM_ĐT.26.05.26.L,2026-05-14T10:32:31
+kehoach|15,26,15,Ngã Bảy - HCM_NM_N7 - Triều Xuống,Ngã Bảy - Triều Xuống,HCM_NM_N7.26.05.26.X,2026-05-14T10:32:43
+kehoach|16,26,16,Vàm Sát - HCM_NM_VS - Triều Xuống,Vàm Sát - Triều Xuống,HCM_NM_VS.26.05.26.X,2026-05-14T10:34:11
+kehoach|17,26,17,Đồng Tranh - HCM_NM_ĐT - Triều Xuống,Đồng Tranh - Triều Xuống,HCM_NM_ĐT.26.05.26.X,2026-05-14T10:34:23
+kehoach|18,26,18,Long Phước - HCM_NM_LP - Triều Lên,Long Phước - Triều Lên,HCM_NM_LP.26.05.26.L,2026-05-14T10:34:36
+kehoach|19,26,19,Cát Lái - HCM_NM_CL - Triều Lên,Cát Lái - Triều Lên,HCM_NM_CL.26.05.26.L,2026-05-14T10:34:49
+kehoach|20,26,20,Long Phước - HCM_NM_LP - Triều Xuống,Long Phước - Triều Xuống,HCM_NM_LP.26.05.26.X,2026-05-14T10:35:01
+kehoach|21,26,21,Cát Lái - HCM_NM_CL - Triều Xuống,Cát Lái - Triều Xuống,HCM_NM_CL.26.05.26.X,2026-05-14T10:35:14
+kehoach|22,27,22,Mũi Đèn Đỏ - HCM_NM_MĐĐ - Triều Lên,Mũi Đèn Đỏ - Triều Lên,HCM_NM_MĐĐ.26.05.27.L,2026-05-14T10:35:29
+kehoach|23,27,23,Nhà Bè - HCM_NM_NB - Triều Lên,Nhà Bè - Triều Lên,HCM_NM_NB.26.05.27.L,2026-05-14T10:35:41
+kehoach|24,27,24,Phú Mỹ - HCM_NM_PM - Triều Lên,Phú Mỹ - Triều Lên,HCM_NM_PM.26.05.27.L,2026-05-14T10:35:54
+kehoach|25,27,25,Mũi Đèn Đỏ - HCM_NM_MĐĐ - Triều Xuống,Mũi Đèn Đỏ - Triều Xuống,HCM_NM_MĐĐ.26.05.27.X,2026-05-14T10:36:06
+kehoach|26,27,26,Nhà Bè - HCM_NM_NB - Triều Xuống,Nhà Bè - Triều Xuống,HCM_NM_NB.26.05.27.X,2026-05-14T10:36:19
+kehoach|27,27,27,Phú Mỹ - HCM_NM_PM - Triều Xuống,Phú Mỹ - Triều Xuống,HCM_NM_PM.26.05.27.X,2026-05-14T10:36:31

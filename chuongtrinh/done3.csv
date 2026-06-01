@@ -1,29 +1,31 @@
 ﻿ts,day,noi_thuc_hien,vi_tri_qt,sample,sample_qc,status,note,key
-2026-05-01T22:48:44,25,Lòng Tàu 1,Triều Lên,1,,ok,,25|Lòng Tàu 1|Triều Lên|1|
-2026-05-01T22:48:51,25,Lòng Tàu,Triều Lên,1,,ok,,25|Lòng Tàu|Triều Lên|1|
-2026-05-01T22:48:57,25,Tam Thôn Hiệp,Triều Lên,1,,ok,,25|Tam Thôn Hiệp|Triều Lên|1|
-2026-05-01T22:49:03,25,Đồng Tranh 1,Triều Lên,1,,ok,,25|Đồng Tranh 1|Triều Lên|1|
-2026-05-01T22:49:09,25,Lòng Tàu 1,Triều Xuống,1,,ok,,25|Lòng Tàu 1|Triều Xuống|1|
-2026-05-01T22:49:14,25,Lòng Tàu,Triều Xuống,1,,ok,,25|Lòng Tàu|Triều Xuống|1|
-2026-05-01T22:49:21,25,Tam Thôn Hiệp,Triều Xuống,1,,ok,,25|Tam Thôn Hiệp|Triều Xuống|1|
-2026-05-01T22:49:28,25,Đồng Tranh 1,Triều Xuống,1,,ok,,25|Đồng Tranh 1|Triều Xuống|1|
-2026-05-01T22:49:34,25,Bình Lợi,Triều Lên,1,,ok,,25|Bình Lợi|Triều Lên|1|
-2026-05-01T22:49:40,25,Sài Gòn,Triều Lên,1,,ok,,25|Sài Gòn|Triều Lên|1|
-2026-05-01T22:49:46,25,Bình Lợi,Triều Xuống,1,,ok,,25|Bình Lợi|Triều Xuống|1|
-2026-05-01T22:49:52,25,Sài Gòn,Triều Xuống,1,1,ok,,25|Sài Gòn|Triều Xuống|1|1
-2026-05-01T22:50:01,26,Ngã Bảy,Triều Lên,1,,ok,,26|Ngã Bảy|Triều Lên|1|
-2026-05-01T22:50:08,26,Vàm Sát,Triều Lên,1,,ok,,26|Vàm Sát|Triều Lên|1|
-2026-05-01T22:50:21,26,Đồng Tranh,Triều Lên,1,,ok,,26|Đồng Tranh|Triều Lên|1|
-2026-05-01T22:50:27,26,Ngã Bảy,Triều Xuống,1,,ok,,26|Ngã Bảy|Triều Xuống|1|
-2026-05-01T22:50:34,26,Vàm Sát,Triều Xuống,1,,ok,,26|Vàm Sát|Triều Xuống|1|
-2026-05-01T22:50:40,26,Đồng Tranh,Triều Xuống,1,,ok,,26|Đồng Tranh|Triều Xuống|1|
-2026-05-01T22:50:46,26,Long Phước,Triều Lên,1,,ok,,26|Long Phước|Triều Lên|1|
-2026-05-01T22:50:52,26,Cát Lái,Triều Lên,1,,ok,,26|Cát Lái|Triều Lên|1|
-2026-05-01T22:50:58,26,Long Phước,Triều Xuống,1,,ok,,26|Long Phước|Triều Xuống|1|
-2026-05-01T22:51:05,26,Cát Lái,Triều Xuống,1,,ok,,26|Cát Lái|Triều Xuống|1|
-2026-05-01T22:51:14,27,Mũi Đèn Đỏ,Triều Lên,1,,ok,,27|Mũi Đèn Đỏ|Triều Lên|1|
-2026-05-01T22:51:20,27,Nhà Bè,Triều Lên,1,,ok,,27|Nhà Bè|Triều Lên|1|
-2026-05-01T22:51:26,27,Phú Mỹ,Triều Lên,1,,ok,,27|Phú Mỹ|Triều Lên|1|
-2026-05-01T22:51:40,27,Mũi Đèn Đỏ,Triều Xuống,1,,ok,,27|Mũi Đèn Đỏ|Triều Xuống|1|
-2026-05-01T22:51:46,27,Nhà Bè,Triều Xuống,1,,ok,,27|Nhà Bè|Triều Xuống|1|
-2026-05-01T22:51:52,27,Phú Mỹ,Triều Xuống,1,,ok,,27|Phú Mỹ|Triều Xuống|1|
+2026-05-10T12:57:56,25,Lòng Tàu 1 - HCM_NM_LT1 - Triều Lên,Lòng Tàu 1 - Triều Lên,1,,ok,,25|Lòng Tàu 1 - HCM_NM_LT1 - Triều Lên|Lòng Tàu 1 - Triều Lên|1|
+2026-05-10T12:58:03,25,Lòng Tàu - HCM_NM_LT - Triều Lên,Lòng Tàu - Triều Lên,1,,ok,,25|Lòng Tàu - HCM_NM_LT - Triều Lên|Lòng Tàu - Triều Lên|1|
+2026-05-10T12:58:09,25,Tam Thôn Hiệp - HCM_NM_TTH - Triều Lên,Tam Thôn Hiệp - Triều Lên,1,,ok,,25|Tam Thôn Hiệp - HCM_NM_TTH - Triều Lên|Tam Thôn Hiệp - Triều Lên|1|
+2026-05-10T12:58:16,25,Đồng Tranh 1 - HCM_NM_ĐT1 - Triều Lên,Đồng Tranh 1 - Triều Lên,1,,ok,,25|Đồng Tranh 1 - HCM_NM_ĐT1 - Triều Lên|Đồng Tranh 1 - Triều Lên|1|
+2026-05-10T12:58:23,25,Lòng Tàu 1 - HCM_NM_LT1 - Triều Xuống,Lòng Tàu 1 - Triều Xuống,1,,ok,,25|Lòng Tàu 1 - HCM_NM_LT1 - Triều Xuống|Lòng Tàu 1 - Triều Xuống|1|
+2026-05-10T12:58:30,25,Lòng Tàu - HCM_NM_LT - Triều Xuống,Lòng Tàu - Triều Xuống,1,,ok,,25|Lòng Tàu - HCM_NM_LT - Triều Xuống|Lòng Tàu - Triều Xuống|1|
+2026-05-10T12:58:37,25,Tam Thôn Hiệp - HCM_NM_TTH - Triều Xuống,Tam Thôn Hiệp - Triều Xuống,1,,ok,,25|Tam Thôn Hiệp - HCM_NM_TTH - Triều Xuống|Tam Thôn Hiệp - Triều Xuống|1|
+2026-05-10T12:58:44,25,Đồng Tranh 1 - HCM_NM_ĐT1 - Triều Xuống,Đồng Tranh 1 - Triều Xuống,1,,ok,,25|Đồng Tranh 1 - HCM_NM_ĐT1 - Triều Xuống|Đồng Tranh 1 - Triều Xuống|1|
+2026-05-10T12:58:52,25,Bình Lợi - HCM_NM_BL - Triều Lên,Bình Lợi - Triều Lên,1,,ok,,25|Bình Lợi - HCM_NM_BL - Triều Lên|Bình Lợi - Triều Lên|1|
+2026-05-10T12:58:59,25,Sài Gòn - HCM_NM_SG - Triều Lên,Sài Gòn - Triều Lên,1,,ok,,25|Sài Gòn - HCM_NM_SG - Triều Lên|Sài Gòn - Triều Lên|1|
+2026-05-10T12:59:06,25,Bình Lợi - HCM_NM_BL - Triều Xuống,Bình Lợi - Triều Xuống,1,,ok,,25|Bình Lợi - HCM_NM_BL - Triều Xuống|Bình Lợi - Triều Xuống|1|
+2026-05-10T12:59:13,25,Sài Gòn - HCM_NM_SG - Triều Xuống,Sài Gòn - Triều Xuống,1,,ok,,25|Sài Gòn - HCM_NM_SG - Triều Xuống|Sài Gòn - Triều Xuống|1|
+2026-05-10T12:59:21,25,Sài Gòn - HCM_NM_SG - Triều Xuống,Sài Gòn - Triều Xuống (QC - Mẫu lặp hiện trường),1,,ok,,25|Sài Gòn - HCM_NM_SG - Triều Xuống|Sài Gòn - Triều Xuống (QC - Mẫu lặp hiện trường)|1|
+2026-05-10T12:59:28,25,Sài Gòn - HCM_NM_SG - Triều Xuống,Sài Gòn - Triều Xuống (QC - Mẫu trắng thiết bị),1,,ok,,25|Sài Gòn - HCM_NM_SG - Triều Xuống|Sài Gòn - Triều Xuống (QC - Mẫu trắng thiết bị)|1|
+2026-05-10T12:59:37,26,Ngã Bảy - HCM_NM_N7 - Triều Lên,Ngã Bảy - Triều Lên,1,,ok,,26|Ngã Bảy - HCM_NM_N7 - Triều Lên|Ngã Bảy - Triều Lên|1|
+2026-05-10T12:59:43,26,Vàm Sát - HCM_NM_VS - Triều Lên,Vàm Sát - Triều Lên,1,,ok,,26|Vàm Sát - HCM_NM_VS - Triều Lên|Vàm Sát - Triều Lên|1|
+2026-05-10T12:59:50,26,Đồng Tranh - HCM_NM_ĐT - Triều Lên,Đồng Tranh - Triều Lên,1,,ok,,26|Đồng Tranh - HCM_NM_ĐT - Triều Lên|Đồng Tranh - Triều Lên|1|
+2026-05-10T12:59:57,26,Ngã Bảy - HCM_NM_N7 - Triều Xuống,Ngã Bảy - Triều Xuống,1,,ok,,26|Ngã Bảy - HCM_NM_N7 - Triều Xuống|Ngã Bảy - Triều Xuống|1|
+2026-05-10T13:00:04,26,Vàm Sát - HCM_NM_VS - Triều Xuống,Vàm Sát - Triều Xuống,1,,ok,,26|Vàm Sát - HCM_NM_VS - Triều Xuống|Vàm Sát - Triều Xuống|1|
+2026-05-10T13:00:10,26,Đồng Tranh - HCM_NM_ĐT - Triều Xuống,Đồng Tranh - Triều Xuống,1,,ok,,26|Đồng Tranh - HCM_NM_ĐT - Triều Xuống|Đồng Tranh - Triều Xuống|1|
+2026-05-10T13:00:17,26,Long Phước - HCM_NM_LP - Triều Lên,Long Phước - Triều Lên,1,,ok,,26|Long Phước - HCM_NM_LP - Triều Lên|Long Phước - Triều Lên|1|
+2026-05-10T13:00:24,26,Cát Lái - HCM_NM_CL - Triều Lên,Cát Lái - Triều Lên,1,,ok,,26|Cát Lái - HCM_NM_CL - Triều Lên|Cát Lái - Triều Lên|1|
+2026-05-10T13:00:32,26,Long Phước - HCM_NM_LP - Triều Xuống,Long Phước - Triều Xuống,1,,ok,,26|Long Phước - HCM_NM_LP - Triều Xuống|Long Phước - Triều Xuống|1|
+2026-05-10T13:00:39,26,Cát Lái - HCM_NM_CL - Triều Xuống,Cát Lái - Triều Xuống,1,,ok,,26|Cát Lái - HCM_NM_CL - Triều Xuống|Cát Lái - Triều Xuống|1|
+2026-05-10T13:01:12,27,Mũi Đèn Đỏ - HCM_NM_MĐĐ - Triều Lên,Mũi Đèn Đỏ - Triều Lên,1,,ok,,27|Mũi Đèn Đỏ - HCM_NM_MĐĐ - Triều Lên|Mũi Đèn Đỏ - Triều Lên|1|
+2026-05-10T13:01:18,27,Nhà Bè - HCM_NM_NB - Triều Lên,Nhà Bè - Triều Lên,1,,ok,,27|Nhà Bè - HCM_NM_NB - Triều Lên|Nhà Bè - Triều Lên|1|
+2026-05-10T13:01:25,27,Phú Mỹ - HCM_NM_PM - Triều Lên,Phú Mỹ - Triều Lên,1,,ok,,27|Phú Mỹ - HCM_NM_PM - Triều Lên|Phú Mỹ - Triều Lên|1|
+2026-05-10T13:01:32,27,Mũi Đèn Đỏ - HCM_NM_MĐĐ - Triều Xuống,Mũi Đèn Đỏ - Triều Xuống,1,,ok,,27|Mũi Đèn Đỏ - HCM_NM_MĐĐ - Triều Xuống|Mũi Đèn Đỏ - Triều Xuống|1|
+2026-05-10T13:01:39,27,Nhà Bè - HCM_NM_NB - Triều Xuống,Nhà Bè - Triều Xuống,1,,ok,,27|Nhà Bè - HCM_NM_NB - Triều Xuống|Nhà Bè - Triều Xuống|1|
+2026-05-10T13:01:46,27,Phú Mỹ - HCM_NM_PM - Triều Xuống,Phú Mỹ - Triều Xuống,1,,ok,,27|Phú Mỹ - HCM_NM_PM - Triều Xuống|Phú Mỹ - Triều Xuống|1|

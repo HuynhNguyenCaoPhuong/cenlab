@@ -27,7 +27,7 @@ PASSWORD = "fmahEuDuWSL^I6"
 CSV_FILENAME = "VITRICS3.csv"
 DONE_FILENAME = "done3.csv"  # log để chạy lại không nhập trùng
 
-PROGRAM_CODE = "CS2.26-0057"
+PROGRAM_CODE = "CS2.26-0068"
 BATCH_NAME = "Vị trí quan trắc gửi Cơ sở 3 - Tháng 05/2026"
 
 # Ngày chạy: 01-10 và 23-25
